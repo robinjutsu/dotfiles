@@ -1,4 +1,3 @@
-export GITHUB_TOKEN=""
 export ZSH="$HOME/.oh-my-zsh"
 
 # nvm and bash completions
